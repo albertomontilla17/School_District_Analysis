@@ -22,22 +22,22 @@ This school district analysis looks at reading and math scores for district scho
 
 - Original School Summary
 
-![original_school_summary.png](original_school_summary.png)
+![Original School Summary](https://github.com/albertomontilla17/school_district_analysis/blob/main/Resources/original_school_summary.png)
 
 - Updated School Summary
 
-![school_summary_noTHS.png](school_summary_noTHS.png)
+![Updated School Summary](https://github.com/albertomontilla17/school_district_analysis/blob/main/Resources/school_summary_noTHS.png)
 
 
 ### After the removal of the math and reading scores for Thomas High School the impact to the school's performance relative to other schools in the district was not material. Thomas High School maintained its second-place position in the top five schools for the district. However, the average math score the Thomas High school decreased -0.1% and the average reading score increased by <0.1%. Additionally, the percentage of students with passing math, passing reading and overall passing scores at Thomas High Shcool decreased by -0.1%, -0.3% and -0.3%, respectively.
 
 - Original Overall
 
-![Original Overall](original_overall.png)
+![Original Overall](https://github.com/albertomontilla17/school_district_analysis/blob/main/Resources/original_overall.png)
 
 - Updated Overall
 
-![Overall No THS](overall_noTHS.png)
+![Overall No THS](https://github.com/albertomontilla17/school_district_analysis/blob/main/Resources/overall_noTHS.png)
 
 ## Summary
 
