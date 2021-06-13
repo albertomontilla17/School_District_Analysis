@@ -12,11 +12,11 @@ This school district analysis looks at reading and math scores for district scho
 
 - Original District Summary
 
-![overall_noTHS.png]()
+![Original District Summary](https://github.com/albertomontilla17/school_district_analysis/blob/main/Resources/original_district_summary.png)
 
 - Updated District Summary
 
-![district_summary_noTHS.png](district_summary_noTHS.png)
+![Updatedn District Summary](https://github.com/albertomontilla17/school_district_analysis/blob/main/Resources/district_summary_noTHS.png)
 
 ### By comparing above two school summary result, we came to conclusion that there is no significant changes of school summary result except Thomas High School results.
 
