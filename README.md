@@ -12,32 +12,32 @@ This school district analysis looks at reading and math scores for district scho
 
 - Original District Summary
 
-![Original Distric Summary]()
+![Original Distric Summary](original_district_summary.png)
 
 - Updated District Summary
 
-![Distric Summary No THS]()
+![Distric Summary No THS](district_summary_noTHS.png)
 
 ### By comparing above two school summary result, we came to conclusion that there is no significant changes of school summary result except Thomas High School results.
 
 - Original School Summary
 
-![Original School Summary]()
+![Original School Summary](original_school_summary.png)
 
 - Updated School Summary
 
-![School Summary No THS]()
+![School Summary No THS](school_summary_noTHS.png)
 
 
 ### After the removal of the math and reading scores for Thomas High School the impact to the school's performance relative to other schools in the district was not material. Thomas High School maintained its second-place position in the top five schools for the district. However, the average math score the Thomas High school decreased -0.1% and the average reading score increased by <0.1%. Additionally, the percentage of students with passing math, passing reading and overall passing scores at Thomas High Shcool decreased by -0.1%, -0.3% and -0.3%, respectively.
 
 - Original Overall
 
-![Original Overall]()
+![Original Overall](original_overall.png)
 
 - Updated Overall
 
-![Overall No THS]()
+![Overall No THS](overall_noTHS.png)
 
 ## Summary
 
